@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently continuing to enhance **my knowledge in Spring Boot, Microservices and BDD**
 
-- 👯 I’m looking to collaborate on **Spring Boot Microservices Projects**
-
-- 💬 Ask me about **Spring Boot, Microservices**
-
 - 📫 How to reach me **arivanamin@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arivan-amin/](https://www.linkedin.com/in/arivan-amin/)
