@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arivan Amin</h1>
-<h3 align="center">A Java Back-end developer</h3>
+<h3 align="center">A Java Back End Developer</h3>
 
-- 🔭 I’m currently working on **My File-System Persistence**
+- 🔭 I’m currently working on **My File-System Persistence** solution to handle large data faster than traditional databases
 
-- 🌱 I’m currently continuing to enhance **my knowledge in Spring Boot, Microservices, Clean Architecture and DDD**
+- 🌱 I’m currently continuing to enhance **my knowledge in Spring Boot, Microservices, Clean Architecture, and DDD**
 
 - 📫 How to reach me **arivanamin@gmail.com**
 
