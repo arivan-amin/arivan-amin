@@ -2,6 +2,10 @@
 
 <hr>
 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/github-user-contribution.svg)
+
+<hr>
+
 - I’m working on creating multiple **Clean Microservices Template**, which are Microservices that
   adheres to Clean Architecture and Clean Code rules, also applies the modern best practices in
   software development.
