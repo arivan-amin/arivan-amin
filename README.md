@@ -2,12 +2,9 @@
 
 <hr>
 
-- I’m working on creating multiple **Clean Microservices Template**, which are Microservices that
-  adheres to Clean Architecture and Clean Code rules, also applies the modern best practices in
-  software development.
-
-- I'm also continuing to enhance my knowledge in **Spring Boot, Microservices, Clean
-  Architecture, and DDD**
+- I’m working on creating multiple **Clean Microservices Template**, which are Microservices
+  back-end that adheres to Clean Architecture, Clean Code, CQRS, SOLID principles, AOP, and some
+  more modern best practices in software development.
 
 - 📫 How to reach me **arivanamin@gmail.com**
 
