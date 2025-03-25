@@ -1,39 +1,45 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1750&pause=500&multiline=true&width=435&lines=I'm+Arivan+Amin;A+Java+Back-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1&multiline=true&width=435&lines=I'm+Arivan+Amin;A+Java+Back-End+Developer)](https://git.io/typing-svg)
 
-<hr>
+---
+<h3>
+I’m working on creating Microservices Back-Ends that adheres to Clean Architecture, Clean Code, CQRS, SOLID principles, AOP, and more modern best practices.
+</h3>
 
-- I’m working on creating multiple **Clean Microservices Template**, which are Microservices
-  back-end that adheres to Clean Architecture, Clean Code, CQRS, SOLID principles, AOP, and some
-  more modern best practices in software development.
+<h3>
+Reach me at: arivanamin@gmail.com
+</h3>
 
-- 📫 How to reach me **arivanamin@gmail.com**
-
-- 📄 Know about my
-  experiences [https://www.linkedin.com/in/arivan-amin/](https://www.linkedin.com/in/arivan-amin/)
-
-<hr>
+---
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/github-user-contribution.svg)
 
-<hr>
+---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arivan-amin&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arivan-amin&theme=github_dark)
 
-<h3>Connect with me:</h3>
+<h2>Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/arivan-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arivan-amin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arivan-amin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arivan-amin" height="30" width="40" /></a>
 </p>
 
-<h3>Languages and Tools:</h3>
+<h2>Languages and Tools:</h3>
 <p> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a>
 
-<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a>
 
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
@@ -44,40 +50,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a>
 
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
-</a>
-
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-</a>
-
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a>
 
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
 </a>
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a>
-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
-
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 </a>
 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
@@ -98,10 +80,6 @@
 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-</a>
-
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a>
 
 </p>
