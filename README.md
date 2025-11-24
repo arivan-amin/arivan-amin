@@ -1,6 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1750&multiline=true&width=435&lines=I'm+Arivan+Amin;A+Java+Back-End+Developer)](https://git.io/typing-svg)
 
-<hr>
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 ### Java Back-End Developer with 6+ years of experience building Spring Boot backends.
 
@@ -11,15 +19,6 @@
 ### Computer Science graduate, reach me at: **arivanamin@gmail.com**.
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
-</picture>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arivan-amin&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arivan-amin&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arivan-amin&theme=github_dark&utcOffset=3)
