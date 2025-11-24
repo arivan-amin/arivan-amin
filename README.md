@@ -16,11 +16,14 @@
 
 ### Know about my experiences [https://www.linkedin.com/in/arivan-amin/](https://www.linkedin.com/in/arivan-amin/)
 
-<hr>
+---
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/github-user-contribution.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
+</picture>
 
-<hr>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arivan-amin&theme=github_dark)
 
@@ -28,6 +31,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arivan-amin&theme=github_dark&utcOffset=3)
 
 ## Languages and Tools
+
 <a href="https://github.com/arivan-amin">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres,docker,maven,gradle,git,github,grafana,prometheus,angular,arch,bash,html,css,javascript,bootstrap,hibernate,idea,jenkins,jquery,kafka,kali,kubernetes,linux,md,postman,rabbitmq,&theme=dark"  alt="icons"/>
 </a>
