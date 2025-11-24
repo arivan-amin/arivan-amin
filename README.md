@@ -19,6 +19,7 @@
 ### Computer Science graduate, reach me at: **arivanamin@gmail.com**.
 
 ---
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arivan-amin&theme=dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arivan-amin&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arivan-amin&theme=github_dark&utcOffset=3)
