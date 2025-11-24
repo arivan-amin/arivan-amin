@@ -2,19 +2,13 @@
 
 <hr>
 
-### Java Back-End Developer with 6+ years of experience Spring Boot backends.
+### Java Back-End Developer with 6+ years of experience building Spring Boot backends.
 
-### Advocate of Clean Architecture, SOLID principles, CQRS, and AOP, with a deep focus on maintainability and domain-driven design.
+### Advocate of Clean Code, Clean Architecture, SOLID principles, CQRS, and AOP, with a deep focus on maintainability and readability.
 
-### Creator of the Clean Microservices Template, a production-ready template demonstrating clean code, separation of concerns, and modern Spring Boot best practices.
+### Creator of several Spring Boot microservices Back-Ends that demonstrate clean code, clean architecture, SOLID principles, and modern Spring Boot best practices.
 
-### Hands-on with Spring Boot, Spring Cloud, Kafka, Liquibase, and Maven Jib — building event-driven, and observable systems.
-
-### Computer Science graduate from the University of Sulaymaniyah with a strong foundation in software engineering principles.
-
-### How to reach me **arivanamin@gmail.com**
-
-### Know about my experiences [https://www.linkedin.com/in/arivan-amin/](https://www.linkedin.com/in/arivan-amin/)
+### Computer Science graduate, reach me at: **arivanamin@gmail.com**.
 
 ---
 
